@@ -70,8 +70,8 @@
 						<section>
 							<div class="content">
 								<header>
-									<a href="coming_soon.php" class="icon fa-floppy-o"><span class="label">Icon</span></a>
-									<h3>Gallery</h3>
+									<a href="media.php" class="icon fa-floppy-o"><span class="label">Icon</span></a>
+									<h3>Media</h3>
 								</header>
 								<p>Watch videos of past performances and see photos from our events!</p>
 							</div>

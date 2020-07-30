@@ -21,7 +21,7 @@
 					<section>
 						<div class="content">
 							<header>
-								<a href="#" class="icon fa-line-chart"><span class="label">Icon</span></a>
+								<a href="thanks.php" class="icon fa-line-chart"><span class="label">Icon</span></a>
 								<h3>Base</h3>
 								<h5>$10/year</h5>
 							</header>
@@ -35,7 +35,7 @@
 					<section>
 						<div class="content">
 							<header>
-								<a href="#" class="icon fa-line-chart"><span class="label">Icon</span></a>
+								<a href="thanks.php" class="icon fa-line-chart"><span class="label">Icon</span></a>
 								<h3>Slope</h3>
 								<h5>$25/year</h5>
 							</header>
@@ -49,7 +49,7 @@
 					<section>
 						<div class="content">
 							<header>
-								<a href="#" class="icon fa-line-chart"><span class="label">Icon</span></a>
+								<a href="thanks.php" class="icon fa-line-chart"><span class="label">Icon</span></a>
 								<h3>Crest</h3>
 								<h5>$50/year</h5>
 							</header>
@@ -64,7 +64,7 @@
 					<section>
 						<div class="content">
 							<header>
-								<a href="#" class="icon fa-line-chart"><span class="label">Icon</span></a>
+								<a href="thanks.php" class="icon fa-line-chart"><span class="label">Icon</span></a>
 								<h3>Peak</h3>
 								<h5>$100/year</h5>
 							</header>
@@ -80,7 +80,7 @@
 					<section>
 						<div class="content">
 							<header>
-								<a href="#" class="icon fa-line-chart"><span class="label">Icon</span></a>
+								<a href="thanks.php" class="icon fa-line-chart"><span class="label">Icon</span></a>
 								<h3>Summit</h3>
 								<h5>$200/year</h5>
 							</header>
@@ -97,7 +97,7 @@
 					<section>
 						<div class="content">
 							<header>
-								<a href="#" class="icon fa-line-chart"><span class="label">Icon</span></a>
+								<a href="thanks.php" class="icon fa-line-chart"><span class="label">Icon</span></a>
 								<h3>Other</h3>
 								<h5>Any amount</h5>
 							</header>

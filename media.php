@@ -19,7 +19,7 @@
             <p>Check out all of our great virtual performances!</p>
 						<p>In My Blood - by Shawn Mendes<br>
 							Featuring Anthony Sloan<br>
-            	<video controls="controls" src="media/imb.mp4">
+            	<iframe width="560" height="315" src="https://www.youtube.com/embed/ko46ZC_rGfw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               	Your browser does not support media playback.
             	</video>
 						</p>

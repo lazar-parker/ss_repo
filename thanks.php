@@ -20,9 +20,8 @@
         <div class="inner">
           <div class="content">
             <h2>Thank you so much for your interest!</h2>
-            <p>We're so glad to have a supportive community to help us reach our full potential. We are currently in the process of establishing infrastructure to handle online donations. In the interim, feel free to email us at <a href="mailto:summitstreetacappella@gmail.com">summitstreetacappella@gmail.com</a> if you are interested in donating.
-
-            Thanks again for the support!</p>
+            <p>We're so glad to have a supportive community to help us reach our full potential. We are currently in the process of establishing infrastructure to handle online donations. In the interim, feel free to email us at <a href="mailto:summitstreetacappella@gmail.com">summitstreetacappella@gmail.com</a> if you are interested in donating.</p>
+            <p>Thanks again for the support!</p>
           </div>
         </div>
       </section>

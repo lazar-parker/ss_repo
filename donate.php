@@ -16,12 +16,13 @@
 					<h2>Want to help us make our mark on A Cappella?</h2>
 					<h3>Consider becoming a sponsor!</h3>
 				</header>
-				<p>Questions? Comments? Ready to help us reach our true potential? Reach out to us at <a href="mailto:summitstreet@emich.edu">summitstreet@emich.edu</a>!</p>
+				<p>Questions? Comments? Reach out to us at <a href="mailto:summitstreetacappella@gmail.com">summitstreetacappella@gmail.com</a>!</p>
+        <p>Interested in donating? Click <a href="thanks.php">here</a> to learn more!</p>
 				<div class="highlights">
 					<section>
 						<div class="content">
 							<header>
-								<a href="thanks.php" class="icon fa-line-chart"><span class="label">Icon</span></a>
+								<a class="icon fa-line-chart"><span class="label">Icon</span></a>
 								<h3>Base</h3>
 								<h5>$10/year</h5>
 							</header>
@@ -35,7 +36,7 @@
 					<section>
 						<div class="content">
 							<header>
-								<a href="thanks.php" class="icon fa-line-chart"><span class="label">Icon</span></a>
+								<a class="icon fa-line-chart"><span class="label">Icon</span></a>
 								<h3>Slope</h3>
 								<h5>$25/year</h5>
 							</header>
@@ -49,7 +50,7 @@
 					<section>
 						<div class="content">
 							<header>
-								<a href="thanks.php" class="icon fa-line-chart"><span class="label">Icon</span></a>
+								<a class="icon fa-line-chart"><span class="label">Icon</span></a>
 								<h3>Crest</h3>
 								<h5>$50/year</h5>
 							</header>
@@ -64,7 +65,7 @@
 					<section>
 						<div class="content">
 							<header>
-								<a href="thanks.php" class="icon fa-line-chart"><span class="label">Icon</span></a>
+								<a class="icon fa-line-chart"><span class="label">Icon</span></a>
 								<h3>Peak</h3>
 								<h5>$100/year</h5>
 							</header>
@@ -80,7 +81,7 @@
 					<section>
 						<div class="content">
 							<header>
-								<a href="thanks.php" class="icon fa-line-chart"><span class="label">Icon</span></a>
+								<a class="icon fa-line-chart"><span class="label">Icon</span></a>
 								<h3>Summit</h3>
 								<h5>$200/year</h5>
 							</header>
@@ -97,7 +98,7 @@
 					<section>
 						<div class="content">
 							<header>
-								<a href="thanks.php" class="icon fa-line-chart"><span class="label">Icon</span></a>
+								<a class="icon fa-line-chart"><span class="label">Icon</span></a>
 								<h3>Other</h3>
 								<h5>Any amount</h5>
 							</header>

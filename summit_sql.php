@@ -98,9 +98,13 @@
 
     public static function storeContact($name, $mail, $message)
     {
-      echo $name;
-      echo $mail;
-      echo $message;
+      global $link;
+
+      $today = getDate();
+      $today_string = $today["month"] + "/" + $today["mday"] + "/" + $today["year"];
+      echo $today_string;
+
+    //  $sql = "INSERT INTO "
     }
 
   }

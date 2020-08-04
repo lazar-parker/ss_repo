@@ -10,9 +10,6 @@
     $name = $_POST["name"];
     $mail = $_POST["email"];
     $message = $_POST["message"];
-    echo $name;
-    echo $mail;
-    echo $message;
     DB::storeContact($name, $mail, $message);
   }
 

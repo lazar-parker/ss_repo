@@ -98,9 +98,9 @@
 
     public static function storeContact($name, $mail, $message)
     {
-      $today = getDate();
-      $today_string = json_encode($today);
-      echo $today_string;
+      echo $name;
+      echo $mail;
+      echo $message;
     }
 
   }

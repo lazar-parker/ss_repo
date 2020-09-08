@@ -23,6 +23,12 @@
                 Your browser does not support media playback.
               </iframe>
 						</p>
+            <br/>
+            <p>Where is the Love - by The Black Eyed Peas
+              Featuring Trevor Miner, Walter Whitt, and Anthony Sloan
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/bawnayZQRXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                Your browser does not support media playback.
+              </iframe>
           </div>
         </div>
       </section>

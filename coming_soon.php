@@ -12,14 +12,14 @@
 ?>
     <!-- Heading -->
       <div id="heading" >
-        <h1>Coming Soon</h1>
+        <h1>Under Construction</h1>
       </div>
 
     <!-- Main -->
       <section id="main" class="wrapper">
         <div class="inner">
           <div class="content">
-            <h2>Big things are in the works!</h2>
+            <h2>Sorry for the mess!</h2>
             <p>We're still in the process of building the best Summit Street experience on the internet, so check back soon!</p>
           </div>
         </div>

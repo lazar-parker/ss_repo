@@ -80,7 +80,7 @@
 						<section>
 							<div class="content">
 								<header>
-									<a href="members.php" class="icon fa-vcard-o"><span class="label">Icon</span></a>
+									<a href="coming_soon.php" class="icon fa-vcard-o"><span class="label">Icon</span></a>
 									<h3>Our Members</h3>
 								</header>
 								<p>Learn about all of our members, both past and present!</p>

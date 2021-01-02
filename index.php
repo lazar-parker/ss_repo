@@ -20,15 +20,16 @@
 
 	include "header.php";
 ?>
+	<script>
+		function PopUp(){
+			alert("test");
+		}
 
-		<!-- COVID Banner Thing -->
-			<section class="wrapper-thin" style="background-color:#e6de55;">
-				<div class="inner">
-					<header class="special" style="margin: 0.4rem 0 0.4rem 0;">
-						<h2 style="margin: 0 0 0 0;"><a href="covid.php" style="color:#ce1b28;">OUR COVID-19 RESPONSE</a></h2>
-					</header>
-				</div>
-			</section>
+		$(document).ready(function(){
+			PopUp();
+		});
+
+	</script>
 
 		<!-- Banner -->
 			<section id="banner">

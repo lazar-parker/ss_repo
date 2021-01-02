@@ -29,6 +29,13 @@
               <iframe width="560" height="315" src="https://www.youtube.com/embed/bawnayZQRXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                 Your browser does not support media playback.
               </iframe>
+            </p>
+            <br/>
+            <p>Oh Come All Ye Faithful
+              Featuring Walter Whitt and Isaiah Meriweather
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/PLuYRpT4idA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                Your browser does not support media playback.
+              </iframe>
           </div>
         </div>
       </section>

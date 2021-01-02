@@ -55,6 +55,9 @@
 								<button type="button" onclick="location.href='member.php?id=3';">Trevor</button>
 						</div><br/>
 						<hr />
+						<h3>Performers</h3>
+						<p>Summit Street A Cappella is comprised of students from a wide variety of fields of study who are all passionate about music and performance. Member auditions occur in the early weeks of each Fall Semester, and towards the end of the Winter Semester.</p>
+						<hr />
 						<h3>Tech Team</h3>
 						<p>Summit Street A Cappella is proud to be the first organization to offer students the opportunity to work with the group in a non-performance capacity. Our tech team works closely with the members of the group to produce a wide variety of media for promotion.</p>
 						<!--

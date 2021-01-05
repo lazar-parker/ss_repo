@@ -14,10 +14,10 @@
 			<div class="inner">
 				<header class="special">
 					<h2>Want to help us make our mark on A Cappella?</h2>
-					<h3>Consider becoming a sponsor!</h3>
+					<h3>Consider becoming a patron on Patreon!</h3>
 				</header>
-				<p>Questions? Comments? Reach out to us at <a href="mailto:summitstreetacappella@gmail.com">summitstreetacappella@gmail.com</a>!</p>
-        <p>Interested in donating? Click <a href="thanks.php">here</a> to learn more!</p>
+				<p>We're partnering with Patreon to help streamline the donation process, and ensure your donation is processed quickly and securely.</p>
+        <p>For more information, click <a href="https://www.patreon.com/summitstreet">here</a>!</p>
 				<div class="highlights">
 					<section>
 						<div class="content">

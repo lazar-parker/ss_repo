@@ -16,7 +16,7 @@
       <section id="main" class="wrapper">
         <div class="inner">
           <div class="content">
-            <p>In light of the ongoing developments regarding COVID-19, the Summit Street A Cappella Executive Board is closely monitoring the situation. We are listening to the leading medical professionals and the major national choral and vocal institutions in order to continue to make informed decisions about the future of our organization and its role in the pandemic. Our top priority is the safety of our members. We are not sure what the future will hold for this organization and the vocal community, but we believe that following best practice guidelines and potential regulations will be crucial in doing our part in this unprecedented time. We will update our members as we are able to regarding plans for the upcoming semesters.</p>
+            <p>Since the COVID-19 pandemic began, the Summit Street Executive Board has been taking steps to ensure member safety above all-else. From adapting to a digital format for rehearsals to switching to digital-first productions, our primary focus has been on continuing to make music without jeopardizing the health of our members. We are continuing to make adjustments as the situation continues to evolve both globablly and locally, and are following the guidelines outlined by University, state, and federal health officials.</p>
             <p><i>-Summit Street Executive Board</i></p>
           </div>
         </div>

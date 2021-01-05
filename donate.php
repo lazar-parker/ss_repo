@@ -17,7 +17,7 @@
 					<h3>Consider becoming a patron on Patreon!</h3>
 				</header>
 				<p>We're partnering with Patreon to help streamline the donation process, and ensure your donation is processed quickly and securely.</p>
-        <p>For more information, click <a href="https://www.patreon.com/summitstreet">here</a>!</p>
+        <p>For more information, click <a href="https://www.patreon.com/summitstreet" target="_blank">here</a>!</p>
 				<div class="highlights">
 					<section>
 						<div class="content">

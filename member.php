@@ -36,8 +36,18 @@
         <div class="inner">
           <div class="content">
 <!--            <?php if($member["member_board"] != NULL || strcasecmp($member["member_board"], "NULL") != 0){ echo "<h2>" . $member["member_board"] . "</h2>"; } ?> -->
-            <h3><?= $member["member_voice"] ?></h3>
-            <p><?= $member["member_bio"] ?></p>
+            <h5>Year</h5>
+            <p><?= $member["member_year"] ?></p>
+            <h5>Hometown</h5>
+            <p><?= $member["member_home"] ?></p>
+            <h5>Favorite Summit Street Memory</h5>
+            <p><?= $member["member_memory"] ?></p>
+            <h5>Favorite Album</h5>
+            <p><?= $member["member_album"] ?></p>
+            <h5>Favorite Candy</h5>
+            <p><?= $member["member_candy"] ?></p>
+            <h5>Go-To Among Us Color</h5>
+            <p><?= $member["member_color"] ?></p>
           </div>
         </div>
       </section>

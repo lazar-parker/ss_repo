@@ -107,7 +107,7 @@
 						<section>
 							<div class="content">
 								<header>
-									<a href="coming_soon.php" class="icon fa-line-chart"><span class="label">Icon</span></a>
+									<a href="https://www.redbubble.com/people/SummitStreet/shop" target="_blank" class="icon fa-line-chart"><span class="label">Icon</span></a>
 									<h3>Merch Store</h3>
 								</header>
 								<p>Want to show your Summit Street pride anywhere you go? Check out the store!</p>

@@ -24,13 +24,15 @@
 			</section>
 		</div>
 		<div class="copyright">
+			Summit Street A Cappella, version 2.3
+			<br/>
 			&copy; 2020 Lazar Media Productions
 			<br/>
 			Based on template by TEMPLATED - templated.co
 			<br/>
 			Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 			<br/>
-			All assets used are placeholders for the version 2.0 release, scheduled to be replaced as part of the version 2.1 release
+			All assets used are placeholders for the version 2.3 release, scheduled to be replaced as part of the version 3.0 release
 		</div>
 	</div>
 </footer>

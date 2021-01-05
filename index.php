@@ -80,7 +80,7 @@
 						<section>
 							<div class="content">
 								<header>
-									<a href="coming_soon.php" class="icon fa-vcard-o"><span class="label">Icon</span></a>
+									<a href="members.php" class="icon fa-vcard-o"><span class="label">Icon</span></a>
 									<h3>Our Members</h3>
 								</header>
 								<p>Learn about all of our members, both past and present!</p>
@@ -139,7 +139,7 @@
 			<section id="cta" class="wrapper">
 				<div class="inner">
 					<h2>Member Spotlight: <?= $member["member_name"] ?></h2>
-					<p><?= $member["member_bio"] ?></p>
+					<p><a onclick="location.href='member.php?id=<?= $random ?>';">Click here to learn more about them!</a></p>
 				</div>
 			</section>
 

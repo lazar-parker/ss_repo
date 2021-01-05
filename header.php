@@ -24,7 +24,7 @@
 			<nav id="menu">
 				<ul class="links">
 					<li><a href="index.php">Home</a></li>
-					<li><a href="coming_soon.php">Members</a></li>
+					<li><a href="members.php">Members</a></li>
 					<li><a href="donate.php">Donate</a></li>
 					<li><a href="media.php">Media</a></li>
 <!--					<li><a href="contact.php">Contact</a></li> -->

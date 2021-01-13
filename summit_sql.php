@@ -100,9 +100,18 @@
     {
       global $link;
 
+      $data = $name + "/n";
+      $data = $data + $mail + "/n";
+      $data = $data + $message + "/n";
+
       $today = getDate();
+      echo "Today's month is " + $today["month"] + "/n";
+      echo "Today's day is " + $today["mday"] + "/n";
+      echo "Today's year is " + $today["year"] + "/n";
       $today_string = $today["month"] + "/" + $today["mday"] + "/" + $today["year"];
       echo $today_string;
+
+      return $data;
 
     //  $sql = "INSERT INTO "
     }

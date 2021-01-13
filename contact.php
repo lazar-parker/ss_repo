@@ -10,7 +10,8 @@
     $name = $_POST["name"];
     $mail = $_POST["email"];
     $message = $_POST["message"];
-    DB::storeContact($name, $mail, $message);
+    $result = DB::storeContact($name, $mail, $message);
+    echo $result;
   }
 
   include "header.php";
@@ -51,6 +52,7 @@
       </section>
 
 <?php
+  DB::close();
   include "footer.php";
 ?>
 

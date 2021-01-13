@@ -53,6 +53,7 @@
       </section>
 
 <?php
+  DB::close();
   include "footer.php";
 ?>
 

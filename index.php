@@ -89,10 +89,10 @@
 						<section>
 							<div class="content">
 								<header>
-									<a href="donate.php" class="icon fa-files-o"><span class="label">Icon</span></a>
-									<h3>Donate</h3>
+									<a href="support.php" class="icon fa-files-o"><span class="label">Icon</span></a>
+									<h3>Support Us</h3>
 								</header>
-								<p>Want to help us make our mark on music? Donate now!</p>
+								<p>Want to help us make our mark on music?</p>
 							</div>
 						</section>
 						<section>
@@ -104,7 +104,7 @@
 								<p>Watch videos of past performances and see photos from our events!</p>
 							</div>
 						</section>
-						<section>
+						<!-- <section>
 							<div class="content">
 								<header>
 									<a href="https://www.redbubble.com/people/SummitStreet/shop" target="_blank" class="icon fa-line-chart"><span class="label">Icon</span></a>
@@ -130,7 +130,7 @@
 								</header>
 								<p>Take a look at what's next for Summit Street A Cappella!</p>
 							</div>
-						</section>
+						</section> -->
 					</div>
 				</div>
 			</section>

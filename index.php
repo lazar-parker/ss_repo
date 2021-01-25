@@ -135,7 +135,7 @@
 				</div>
 			</section>
 
-		<!-- CTA -->
+		<!-- Member Spotlight -->
 			<section id="cta" class="wrapper">
 				<div class="inner">
 					<h2>Member Spotlight: <?= $member["member_name"] ?></h2>
@@ -143,7 +143,7 @@
 				</div>
 			</section>
 
-		<!-- Testimonials -->
+		<!-- Sponsors -->
 			<section class="wrapper">
 				<div class="inner">
 					<header class="special">

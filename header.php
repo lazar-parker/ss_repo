@@ -25,7 +25,7 @@
 				<ul class="links">
 					<li><a href="index.php">Home</a></li>
 					<li><a href="members.php">Members</a></li>
-					<li><a href="donate.php">Donate</a></li>
+					<li><a href="support.php">Support Us</a></li>
 					<li><a href="media.php">Media</a></li>
 <!--					<li><a href="contact.php">Contact</a></li> -->
 					<li><a href="covid.php">COVID-19</a></li>

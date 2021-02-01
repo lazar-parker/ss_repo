@@ -25,11 +25,10 @@
 				<ul class="links">
 					<li><a href="index.php">Home</a></li>
 					<li><a href="members.php">Members</a></li>
+					<li><a href="alumnis.php">Alumni</a></li>
 					<li><a href="support.php">Support Us</a></li>
 					<li><a href="media.php">Media</a></li>
-<!--					<li><a href="contact.php">Contact</a></li> -->
 					<li><a href="covid.php">COVID-19</a></li>
 					<li><a href="blm_resc.php">BLM Resources</a></li>
-<!--					<li><a href="shop.php">Shop</a></li> -->
 				</ul>
 			</nav>

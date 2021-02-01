@@ -73,7 +73,8 @@
 				<div class="inner">
 					<header class="special">
 						<h2>About Us</h2>
-						<p>Comprised of students from a wide range of disciplines, Summit Street A Cappella is Eastern Michigan University's premier TTBB a cappella organization.</p>
+						<p>Comprised of students from a wide range of disciplines, Summit Street A Cappella is Eastern Michigan University's premier TTBB a cappella organization.
+							Created in 2018, Summit Street began as an idea shared among three friends who wanted to expand what was available to vocalists on campus, as well as those who were interested in music production. From there, the organization has had many amazing opportunities, including performing in the official EMU Holiday video and competing in the 2021 ICCA competition.</p>
 						<p>Are you an EMU student interested in auditioning for Summit Street? Fill out the interest form linked <a href="https://forms.gle/jaogDU6ggB8Npjwe6">here</a>!</p>
 					</header>
 					<div class="highlights">

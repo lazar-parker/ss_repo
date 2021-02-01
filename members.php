@@ -40,7 +40,7 @@
 						</div><br/>
 						<h5>Baritones:</h5>
 						<div class="col-6 col-12-medium">
-								<input type="image" name="Parker" src="images/members/parker.png" onclick="location.href='member.php?id=1';" />
+								<input type="image" name="Joshua" src="images/members/joshua.png" onclick="location.href='member.php?id=14';" />
 								<input type="image" name="Noah" src="images/members/noah.png" onclick="location.href='member.php?id=16';" />
 								<input type="image" name="Isaiah" src="images/members/isaiah.png" onclick="location.href='member.php?id=13';" />
 							<!--
@@ -49,9 +49,9 @@
 						</div><br/>
 						<h5>Basses:</h5>
 						<div class="col-6 col-12-medium">
+								<input type="image" name="Parker" src="images/members/parker.png" onclick="location.href='member.php?id=1';" />
 								<input type="image" name="Andrew" src="images/members/andrew.png" onclick="location.href='member.php?id=5';" />
 								<input type="image" name="Walter" src="images/members/walter.png" onclick="location.href='member.php?id=7';" />
-								<input type="image" name="Joshua" src="images/members/joshua.png" onclick="location.href='member.php?id=14';" />
 								<input type="image" name="Trevor" src="images/members/trevor.png" onclick="location.href='member.php?id=3';" />
 						</div><br/>
 						<hr />
@@ -70,33 +70,7 @@
 							<!--
 								<button type="button">Also Zack</button>
 							-->
-						</div><br/>
-						<hr />
-						<h3>Alumni</h3>
-						<p>Take a walk down memory lane and see all of the past members of Summit Street A Cappella that have helped make it into the organization it is today!</p>
-						<h5>Class of 2020</h5>
-						<div class="col-6 col-12-medium">
-								<button type="button" onclick="location.href='alumni.php?id=1';">Alex</button>
-								<button type="button" onclick="location.href='alumni.php?id=6';">Dominick</button>
-								<button type="button" onclick="location.href='alumni.php?id=2';">Randal</button>
-								<button type="button" onclick="location.href='alumni.php?id=3';">Rory</button>
-								<button type="button" onclick="location.href='alumni.php?id=7';">Tailen</button>
-								<button type="button" onclick="location.href='alumni.php?id=4';">Wade</button>
-								<button type="button" onclick="location.href='alumni.php?id=5';">Xavier</button>
-						</div><br/>
-						<h5>Class of 2021</h5>
-						<div class="col-6 col-12-medium">
-								<button type="button" onclick="location.href='member.php?id=8';">Becky</button>
 						</div>
-						<!--
-						<h5>Class of {year}</h5>
-						<div class="col-6 col-12-medium">
-								<button type="button">Alumni</button>
-								<button type="button">Names</button>
-								<button type="button">Go</button>
-								<button type="button">Here</button>
-						</div>
-						-->
 					</div>
 				</div>
 			</section>

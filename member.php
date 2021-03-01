@@ -35,7 +35,7 @@
       <section id="main" class="wrapper">
         <div class="inner">
           <div class="content">
-<!--            <?php if($member["member_board"] != NULL || strcasecmp($member["member_board"], "NULL") != 0){ echo "<h2>" . $member["member_board"] . "</h2>"; } ?> -->
+            <img src="images/members/memes/<?=$member["member_meme"]?>.png" style="width:35%">
             <h5>Year</h5>
             <p><?= $member["member_year"] ?></p>
             <h5>Hometown</h5>

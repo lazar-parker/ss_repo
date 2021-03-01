@@ -24,15 +24,15 @@
 						<p>Summit Street A Cappella is comprised of students from a wide variety of fields of study who are all passionate about music and performance. Member auditions occur in the early weeks of each Fall Semester, and towards the end of the Winter Semester.</p>
 						<h5>Tenor 1s:</h5>
 						<div class="col-6 col-12-medium">
-								<input type="image" name="Zack" src="images/members/zack.png" onclick="location.href='member.php?id=6';" />
-								<input type="image" name="Felix" src="images/members/john.png" onclick="location.href='member.php?id=11';" />
-								<input type="image" name="Cellach" src="images/members/cellach.png" onclick="location.href='member.php?id=15';" />
+								<input type="image" name="Zack" src="images/members/headshots/zack.png" style="width:25%;" onclick="location.href='member.php?id=6';" />
+								<input type="image" name="Felix" src="images/members/headshots/john.png" style="width:25%;" onclick="location.href='member.php?id=11';" />
+								<input type="image" name="Cellach" src="images/members/headshots/cellach.png" style="width:25%;" onclick="location.href='member.php?id=15';" />
 						</div><br/>
 						<h5>Tenor 2s:</h5>
 						<div class="col-6 col-12-medium">
-								<input type="image" name="David" src="images/members/david.png" onclick="location.href='member.php?id=2';" />
-								<input type="image" name="Anthony" src="images/members/anthony.png" onclick="location.href='member.php?id=4';" />
-								<input type="image" name="Austin" src="images/members/austin.png" onclick="location.href='member.php?id=12';" />
+								<input type="image" name="David" src="images/members/headshots/david.png" style="width:25%;" onclick="location.href='member.php?id=2';" />
+								<input type="image" name="Anthony" src="images/members/headshots/anthony.png" style="width:25%;" onclick="location.href='member.php?id=4';" />
+								<input type="image" name="Austin" src="images/members/headshots/austin.png" style="width:25%;" onclick="location.href='member.php?id=12';" />
 							<!--
 								<button type="button">Zack 2</button>
 								<button type="button">Also Zack</button>
@@ -40,19 +40,19 @@
 						</div><br/>
 						<h5>Baritones:</h5>
 						<div class="col-6 col-12-medium">
-								<input type="image" name="Joshua" src="images/members/joshua.png" onclick="location.href='member.php?id=14';" />
-								<input type="image" name="Noah" src="images/members/noah.png" onclick="location.href='member.php?id=16';" />
-								<input type="image" name="Isaiah" src="images/members/isaiah.png" onclick="location.href='member.php?id=13';" />
+								<input type="image" name="Joshua" src="images/members/headshots/joshua.png" style="width:25%;" onclick="location.href='member.php?id=14';" />
+								<input type="image" name="Noah" src="images/members/headshots/noah.png" style="width:25%;" onclick="location.href='member.php?id=16';" />
+								<input type="image" name="Isaiah" src="images/members/headshots/isaiah.png" style="width:25%;" onclick="location.href='member.php?id=13';" />
 							<!--
 								<button type="button">?</button>
 							-->
 						</div><br/>
 						<h5>Basses:</h5>
 						<div class="col-6 col-12-medium">
-								<input type="image" name="Parker" src="images/members/parker.png" onclick="location.href='member.php?id=1';" />
-								<input type="image" name="Andrew" src="images/members/andrew.png" onclick="location.href='member.php?id=5';" />
-								<input type="image" name="Walter" src="images/members/walter.png" onclick="location.href='member.php?id=7';" />
-								<input type="image" name="Trevor" src="images/members/trevor.png" onclick="location.href='member.php?id=3';" />
+								<input type="image" name="Parker" src="images/members/headshots/parker.png" style="width:25%;" onclick="location.href='member.php?id=1';" />
+								<input type="image" name="Andrew" src="images/members/headshots/andrew.png" style="width:25%;" onclick="location.href='member.php?id=5';" />
+								<input type="image" name="Walter" src="images/members/headshots/walter.png" style="width:25%;" onclick="location.href='member.php?id=7';" />
+								<input type="image" name="Trevor" src="images/members/headshots/trevor.png" style="width:25%;" onclick="location.href='member.php?id=3';" />
 						</div><br/>
 						<hr />
 						<h3>Tech Team</h3>

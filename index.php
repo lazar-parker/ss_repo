@@ -13,7 +13,7 @@
 	$names = DB::getMembers();
 	$count = count($names);
 
-	$random = rand(0, $count-1);
+	$random = rand(1, $count);
 
 	$member = DB::getMemberByIndex($random);
 

@@ -28,48 +28,41 @@
 								<input type="image" name="Felix" src="images/members/headshots/john.png" style="width:25%;" onclick="location.href='member.php?id=11';" />
 								<input type="image" name="Cellach" src="images/members/headshots/cellach.png" style="width:25%;" onclick="location.href='member.php?id=15';" />
 						</div><br/>
+
 						<h5>Tenor 2s:</h5>
 						<div class="col-6 col-12-medium">
 								<input type="image" name="David" src="images/members/headshots/david.png" style="width:25%;" onclick="location.href='member.php?id=2';" />
-								<input type="image" name="Anthony" src="images/members/headshots/anthony.png" style="width:25%;" onclick="location.href='member.php?id=4';" />
 								<input type="image" name="Austin" src="images/members/headshots/austin.png" style="width:25%;" onclick="location.href='member.php?id=12';" />
-							<!--
-								<button type="button">Zack 2</button>
-								<button type="button">Also Zack</button>
-							-->
+
 						</div><br/>
+
 						<h5>Baritones:</h5>
 						<div class="col-6 col-12-medium">
-								<input type="image" name="Joshua" src="images/members/headshots/joshua.png" style="width:25%;" onclick="location.href='member.php?id=14';" />
 								<input type="image" name="Noah" src="images/members/headshots/noah.png" style="width:25%;" onclick="location.href='member.php?id=16';" />
-								<input type="image" name="Isaiah" src="images/members/headshots/isaiah.png" style="width:25%;" onclick="location.href='member.php?id=13';" />
-							<!--
-								<button type="button">?</button>
-							-->
+
 						</div><br/>
+
 						<h5>Basses:</h5>
 						<div class="col-6 col-12-medium">
-								<input type="image" name="Parker" src="images/members/headshots/parker.png" style="width:25%;" onclick="location.href='member.php?id=1';" />
 								<input type="image" name="Andrew" src="images/members/headshots/andrew.png" style="width:25%;" onclick="location.href='member.php?id=5';" />
 								<input type="image" name="Walter" src="images/members/headshots/walter.png" style="width:25%;" onclick="location.href='member.php?id=7';" />
 								<input type="image" name="Trevor" src="images/members/headshots/trevor.png" style="width:25%;" onclick="location.href='member.php?id=3';" />
 						</div><br/>
+
 						<hr />
+						
 						<h3>Tech Team</h3>
-						<p>Summit Street A Cappella is proud to be the first organization to offer students the opportunity to work with the group in a non-performance capacity. Our tech team works closely with the members of the group to produce a wide variety of media for promotion.</p>
-						<!--
+						<p>Summit Street A Cappella is proud to be the first a cappella organization to offer students the opportunity to work with the group in a non-performance capacity. Our tech team works closely with the members of the group to produce a wide variety of media for promotion.</p>
+
 						<h5>Team Heads:</h5>
 						<div class="col-6 col-12-medium">
-								<button type="button" onclick="location.href='member.php?id=8';">Becky</button>
+								<input type="image" name="Isaiah" src="images/members/headshots/isaiah.png" style="width:25%;" onclick="location.href='member.php?id=13';" />
 						</div>
-						-->
+
 						<h5>Team Members:</h5>
 						<div class="col-6 col-12-medium">
 								<button type="button" onclick="location.href='member.php?id=9';">Shelby</button>
-								<button type="button" onclick="location.href='member.php?id=10';">Erin</button>
-							<!--
-								<button type="button">Also Zack</button>
-							-->
+
 						</div>
 					</div>
 				</div>

@@ -9,7 +9,7 @@
 
 		<!-- Heading -->
 			<div id="heading" >
-				<h1>Members Page</h1>
+				<h1>Summit Street Hall of Fame</h1>
 			</div>
 
 		<!-- Main -->
@@ -24,7 +24,7 @@
 						<h5>Class of 2020</h5>
 						<div class="col-6 col-12-medium">
 								<button type="button" onclick="location.href='alumni.php?id=1';">Alex</button>
-								<button type="button" onclick="location.href='alumni.php?id=6';">Dominick</button>
+								<button type="button" onclick="location.href='alumni.php?id=6';">Dom</button>
 								<button type="button" onclick="location.href='alumni.php?id=2';">Randal</button>
 								<button type="button" onclick="location.href='alumni.php?id=3';">Rory</button>
 								<button type="button" onclick="location.href='alumni.php?id=7';">Tailen</button>
@@ -34,8 +34,13 @@
 						<h5>Class of 2021</h5>
 						<div class="col-6 col-12-medium">
 								<button type="button" onclick="location.href='alumni.php?id=8';">Becky</button>
+								<button type="button" onclick="location.href='alumni.php?id=9';">Erin</button>
+								<button type="button" onclick="location.href='alumni.php?id=10';">Josh</button>
+								<button type="button" onclick="location.href='alumni.php?id=11';">Parker</button>
+								<button type="button" onclick="location.href='alumni.php?id=12';">Teddy</button>
 						</div>
 						<!--
+						Example code for alumni list
 						<h5>Class of {year}</h5>
 						<div class="col-6 col-12-medium">
 								<button type="button">Alumni</button>

@@ -64,7 +64,7 @@
 					<h1>Summit Street</h1>
 					<p>EMU's Premier TTBB A Cappella Organization</p>
 				</div>
-				<video autoplay loop muted playsinline src="images/banner.mp4"></video>
+				<!--<video autoplay loop muted playsinline src="images/banner.mp4"></video> -->
 			</section>
 
 

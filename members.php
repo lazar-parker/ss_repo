@@ -14,6 +14,13 @@
 
 		<!-- Main -->
 		<!-- FOR ALL SECTIONS, PLEASE ONLY HAVE A MAXIMUM OF FOUR (4) BUTTONS PER ROW -->
+		<!--
+
+			When adding new members, use the following format:
+			<input type="image" name="{NAME}" src="images/members/headshots/{NAME}.png" style="width:25%;" onclick="location.href='member.php?id={ID}';" />
+			Replace {NAME} with the member's name, and {ID} with the id of the member (obtained from the MySQL database)
+			
+		-->
 			<section id="main" class="wrapper">
 				<div class="inner">
 					<div class="content">
@@ -50,7 +57,7 @@
 						</div><br/>
 
 						<hr />
-						
+
 						<h3>Tech Team</h3>
 						<p>Summit Street A Cappella is proud to be the first a cappella organization to offer students the opportunity to work with the group in a non-performance capacity. Our tech team works closely with the members of the group to produce a wide variety of media for promotion.</p>
 

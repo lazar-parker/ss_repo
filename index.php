@@ -12,10 +12,11 @@
 
 	$indexes = DB::getMemberIndexes();
 	$count = count($indexes);
-
 	$random = rand(0, $count-1);
 
-	$member = DB::getMemberByIndex($count[$random]);
+	$temp = $indexes[$random];
+
+	$member = DB::getMemberByIndex($temp["member_index"]);
 
 
 	include "header.php";
@@ -57,6 +58,12 @@
 		}
 
 	</script>
+
+			<section id="warning">
+				<div class="marquee">
+					<p><b>This Website is currently undergoing scheduled maintenance and security testing. Outages are to be expected. Maintenance and testing is scheduled to end at 6:00am EST on 9/11/2021. We thank you for your patience.</b></p>
+				</div>
+			</section>
 
 		<!-- Banner -->
 			<section id="banner">

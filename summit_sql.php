@@ -56,6 +56,12 @@
       return $array;
     }
 
+    public static function getMemberIndexes() {
+      $sql = "SELECT member_index FROM member_data;";
+      $array = DB::array($sql);
+      return $array;
+    }
+
     public static function getMemberByIndex($index) {
       global $link;
       $sql = "SELECT *

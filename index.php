@@ -10,12 +10,12 @@
 
 	DB::open();
 
-	$names = DB::getMembers();
-	$count = count($names);
+	$indexes = DB::getMemberIndexes();
+	$count = count($indexes);
 
-	$random = rand(1, $count);
+	$random = rand(0, $count-1);
 
-	$member = DB::getMemberByIndex($random);
+	$member = DB::getMemberByIndex($count[$random]);
 
 
 	include "header.php";
@@ -140,7 +140,7 @@
 			<section id="cta" class="wrapper">
 				<div class="inner">
 					<h2>Member Spotlight: <?= $member["member_name"] ?></h2>
-					<p><a onclick="location.href='member.php?id=<?= $random ?>';">Click here to learn more about them!</a></p>
+					<p><a onclick="location.href='member.php?id=<?= $member["member_index"] ?>';">Click here to learn more about them!</a></p>
 				</div>
 			</section>
 
